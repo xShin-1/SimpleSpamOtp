@@ -1,1 +1,1 @@
-# SimpleSpamOtp
+# SPAM OTP
