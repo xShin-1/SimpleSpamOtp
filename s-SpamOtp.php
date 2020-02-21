@@ -1,11 +1,11 @@
 <?php
 /*
-* Name : Simple Spam Otp
-* File : s-spamOtp.php
-* Author : xShin
-* Github : https://github.com/xShin-1
-* Date : 18-02-2020
-* Version : 1.0
+* Name		: Simple Spam Otp
+* File		: s-spamOtp.php
+* Author	: xShin
+* Github	: https://github.com/xShin-1
+* Date		: 18-02-2020
+* Version	: 1.0
 */
 
 system("clear");
