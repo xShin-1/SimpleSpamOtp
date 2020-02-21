@@ -3,10 +3,9 @@
 * Name		: Simple Spam Otp
 * File		: version.php
 * Author	: xShin
-* Github	: https://github.com/xShin-1/
-* Telegram	: https://t.me/unikers
-* Date		: 26-01-2020 X 18-02-2020
-* Version	: 1.0 X 1.0
+* Github	: https://github.com/xShin-1
+* Date		: 18-02-2020
+* Version	: 1.0
 */
 
 function CekUp() {
