@@ -2,11 +2,10 @@
 /*
 * Name : Simple Spam Otp
 * File : s-spamOtp.php
-* Author : DulLah X xShin
-* Github : https://github.com/dz-id X https://github.com/xShin-1/
-* Telegram : https://t.me/unikers
-* Date : 26-01-2020 X 18-02-2020
-* Version : 1.0 X 1.0
+* Author : xShin
+* Github : https://github.com/xShin-1
+* Date : 18-02-2020
+* Version : 1.0
 */
 
 system("clear");
@@ -22,11 +21,10 @@ echo " \e[96m\n\n
 /___/____/   /__/___/__/ /___/
                                         								\e[0m
 \e[92m*-------------------------------------------------------------------------*\e[0m
-  Author   : DulLah X xShin
-  Github   : https://github.com/dz-id X https://github.com/xShin-1/
-  Telegram : https://t.me/unikers
-  Date     : 26-01-2020 X 18-02-2020
-  Version  : 1.0 X 1.0
+  Author   : xShin
+  Github   : https://github.com/xShin-1/
+  Date     : 18-02-2020
+  Version  : 1.0
 \e[92m*-------------------------------------------*\e[0m\n
   \e[92m01\e[0m. Spam Otp MyPoin
   \e[92m02\e[0m. Spam Otp ALTBaljai
